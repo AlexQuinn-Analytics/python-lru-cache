@@ -34,13 +34,13 @@ print(lru.get(2))  # Output: -1
 print(lru.get(3))  # Output: 3
 print(lru.get(4))  # Output: 4
 🎯 Why This Project?
-💡 For CS (Computer Science) Applications:
+💡 For CS (Computer Science) :
 
 Demonstrates proficiency in classic data structures 🏗️ and algorithm design ⚙️
 
 Shows understanding of system performance optimization 🚀 via caching strategies
 
-📊 For DS (Data Science) Applications:
+📊 For DS (Data Science) :
 
 Highlights coding 💻 and logical thinking 🧠 beyond library usage
 
